@@ -1,0 +1,7 @@
+Startar o Mongo
+
+mongod
+
+E logo após o comando 
+
+npm run dev 
